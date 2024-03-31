@@ -12,13 +12,13 @@ Potato Disease Detection is a project aimed at using Convolutional Neural Networ
 - Utilizes a CNN model trained on a dataset of labeled potato plant images.
 
 
-# Datesets
+### Datesets
 
 [Click Here To Download ](https://www.kaggle.com/datasets/arjuntejaswi/plant-village?resource=download)
 
 
 
-
+### installation
 To install the necessary dependencies, run the following command:
 
 ```bash
