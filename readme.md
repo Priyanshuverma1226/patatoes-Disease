@@ -14,7 +14,7 @@ Potato Disease Detection is a project aimed at using Convolutional Neural Networ
 
 # Datesets
 
-![Potato Datasets](https://www.kaggle.com/datasets/arjuntejaswi/plant-village?resource=download)
+[Potato Datasets](https://www.kaggle.com/datasets/arjuntejaswi/plant-village?resource=download)
 
 
 
