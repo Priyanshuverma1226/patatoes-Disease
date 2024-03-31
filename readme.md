@@ -18,7 +18,7 @@ Potato Disease Detection is a project aimed at using Convolutional Neural Networ
 
 
 
-### installation
+### Installation
 To install the necessary dependencies, run the following command:
 
 ```bash
